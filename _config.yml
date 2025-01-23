@@ -1,0 +1,5 @@
+title: My Jekyll Site
+description: A simple Jekyll website
+theme: minima  # You can replace with another theme
+baseurl: ""  # Set if deploying to a subpath
+url: "https://raynaldoksg.github.io/FirstWebsite/"
