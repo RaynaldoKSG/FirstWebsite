@@ -1,5 +1,5 @@
 title: My Jekyll Site
 description: A simple Jekyll website
-theme: minima  # You can replace with another theme
+theme: jekyll-theme-cayman  # You can replace with another theme
 baseurl: "/FirstWebsite"
 url: "https://raynaldoksg.github.io"
