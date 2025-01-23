@@ -1,5 +1,5 @@
-title: My Jekyll Site
-description: A simple Jekyll website
+title: My Site (defined in _config.yml)
+description: Description (defined in _config.yml)
 theme: jekyll-theme-cayman  # You can replace with another theme
 baseurl: "/FirstWebsite"
 url: "https://raynaldoksg.github.io"
