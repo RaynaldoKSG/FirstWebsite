@@ -3,3 +3,4 @@ description: Description (defined in _config.yml) - Push from local
 theme: jekyll-theme-cayman  # You can replace with another theme
 baseurl: "/FirstWebsite"
 url: "https://raynaldoksg.github.io"
+repository: "RaynaldoKSG/FirstWebsite" 
